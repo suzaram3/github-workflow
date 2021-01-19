@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-## DUE: 18 Jan 2020
+## DUE: 21 Jan 2021
 
 ## Instructions:
 ***NOTE:***This assignment has a dual purpose. 1. To test the Git workflow procedures for completing assignments this semester and 2. To ensure you have Android Studio installed correctly.
